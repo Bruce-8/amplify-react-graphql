@@ -14,11 +14,11 @@ An authentication service was created and deployed using Amplify libraries. Then
 
 #### 1. Create Account & Identity Verification
 
-<img src="Screenshot (155).png" height="300" width="300"/>&nbsp;&nbsp;<img src="Screenshot (162).png" width="380" height="300"/>
+<img src="POCs/Screenshot (155).png" height="300" width="300"/>&nbsp;&nbsp;<img src="POCs/Screenshot (162).png" width="380" height="300"/>
 
 #### 2. Sign In
 
-<img src="Screenshot (163).png" height="300" width="300"/>
+<img src="POCs/Screenshot (163).png" height="300" width="300"/>
 
 ### Database & Storage (CRUD + L)
 
@@ -26,17 +26,17 @@ Deployed a GraphQL API that is backed by the Amazon DynamoDB database and create
 
 #### Create Note
 
-<img src="Screenshot (164).png" height="350" width="500"/>
+<img src="POCs/Screenshot (164).png" height="350" width="500"/>
 
 #### Fetch Note
 
 Note: This feature is executed upon creating a new note, refreshing the page, or entering the app after a successfull sign in.
 
-<img src="Screenshot (165).png" height="350" width="500"/>
+<img src="POCs/Screenshot (165).png" height="350" width="500"/>
 
 #### Delete Note
 
-<img src="Screenshot (166).png" height="350" width="500"/>
+<img src="POCs/Screenshot (166).png" height="350" width="500"/>
 
 ## Acknowledgements
 
